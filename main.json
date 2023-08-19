@@ -1,0 +1,29 @@
+{
+    "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
+    "vercel_api":"https://leetcode-be.vercel.app",
+    "latest_version":15,
+    "flag":0,
+    "feedback":{
+        "msg":"",
+        "url":"",
+        "options":[],
+        "url_text":""
+    },
+    "msg":"",
+    "download_url":"",
+    "options":[],
+    "app_url":"https://play.google.com/store/apps/details?id=com.leetos",
+    "release_features":["Friends and Compare bug fix","Performance improved"],
+    "gmail":"leetosapp@gmail.com",
+    "notification":[{
+        "time":"22:00:00",
+        "title":"👨‍💻 Hey Leetcoder!",
+        "body":"Did you solve today's problem?⌚"
+    },
+        {
+        "time":"23:00:00",
+        "title":"🔁 Keep It Fresh!",
+        "body":"Replenish your skills by revising the Revise Section. Consistent practice is the key to mastery! 💪"
+    }
+    ]
+}
