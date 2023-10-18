@@ -25,5 +25,9 @@
         "title":"🔁 Keep It Fresh!",
         "body":"Replenish your skills by revising the Revise Section. Consistent practice is the key to mastery! 💪"
     }
-    ]
+    ],
+    "adCountRange":{
+        "start": 2,
+        "end": 2
+    }
 }
