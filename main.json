@@ -2,14 +2,14 @@
     "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
     "vercel_api":"https://leetcode-be.vercel.app",
     "latest_version":19,
-    "flag":1,
+    "flag":0,
     "feedback":{
-        "msg":"App is down for maintenance. You won't see any data for a while. We apologize for any inconvenience. Your understanding is appreciated.",
+        "msg":"",
         "url":"",
         "options":[],
         "url_text":""
     },
-    "msg":"App is down for maintenance. You won't see any data for a while. We apologize for any inconvenience. Your understanding is appreciated.",
+    "msg":"",
     "download_url":"",
     "options":[],
     "app_url":"https://play.google.com/store/apps/details?id=com.leetos",
