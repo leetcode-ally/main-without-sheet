@@ -31,13 +31,13 @@
         "end": 2
     },
     "downTimeAlert":{
-        "showDownTimeAlert":true,
+        "showDownTimeAlert":false,
         "heading":"Notice",
         "subheading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
         "showMailBox": true,
         "mailBox":{
             "heading":"Please report to us",
-            "subject":"App is unable to fetch data",
+            "subject":"App is down for maintenance",
             "body":"",
             "email":"leetcode.ally@gmail.com",
             "inputBoxPlaceholder":"Write your message here..",
