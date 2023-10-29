@@ -31,7 +31,8 @@
         "end": 2
     },
     "downTimeAlert":{
-        "heading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+        "heading":"Notice",
+        "subheading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
         "showMailBox": true,
         "mailBox":{
             "heading":"Please report to us",
