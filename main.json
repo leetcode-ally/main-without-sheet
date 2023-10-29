@@ -29,5 +29,15 @@
     "adCountRange":{
         "start": 2,
         "end": 2
+    },
+    "downTimeAlert":{
+        "heading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+        "showMailBox": true,
+        "mailBox":{
+            "heading":"Please report to us",
+            "subject":"App is unable to fetch data",
+            "body":"",
+            "email":"leetcode.ally@gmail.com"
+        }
     }
 }
