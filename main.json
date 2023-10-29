@@ -37,7 +37,9 @@
             "heading":"Please report to us",
             "subject":"App is unable to fetch data",
             "body":"",
-            "email":"leetcode.ally@gmail.com"
+            "email":"leetcode.ally@gmail.com",
+            "inputBoxPlaceholder":"Write your message here..",
+            "buttonText":"Send"
         }
     }
 }
