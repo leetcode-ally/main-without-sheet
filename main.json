@@ -46,7 +46,7 @@
     },
     "apiFailAlert":{
         "heading":"Notice",
-        "subheading":"Oops! There is some issue.",
+        "subheading":"There is some technical issue in fetching data. We are looking into it.",
         "showMailBox": true,
         "mailBox":{
             "heading":"Please report to us",
