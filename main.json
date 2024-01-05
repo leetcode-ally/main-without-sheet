@@ -55,6 +55,8 @@
             "email":"leetcode.ally@gmail.com",
             "inputBoxPlaceholder":"Write your message here..",
             "buttonText":"Send"
-        }
+        },
+        "showLimitedFeaturesBtn": true,
+        "limitedFeaturesText":"Continue with Limited Features"
     }
 }
