@@ -46,10 +46,10 @@
     },
     "apiFailAlert":{
         "heading":"Notice",
-        "subheading":"There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch",
+        "subheading":"There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
         "showMailBox": true,
         "mailBox":{
-            "heading":"Please report to us",
+            "heading":"Report to us",
             "subject":"App is unable to fetch data",
             "body":"",
             "email":"leetcode.ally@gmail.com",
@@ -57,6 +57,36 @@
             "buttonText":"Send"
         },
         "showLimitedFeaturesBtn": true,
+        "limitedFeaturesText":"Continue with Limited Features"
+    },
+    "questionNotFoundAlert":{
+        "heading":"Notice",
+        "subheading":"This question is not available as of now. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+        "showMailBox": true,
+        "mailBox":{
+            "heading":"Report to us",
+            "subject":"Question not available",
+            "body":"",
+            "email":"leetcode.ally@gmail.com",
+            "inputBoxPlaceholder":"Write your message here..",
+            "buttonText":"Send"
+        },
+        "showLimitedFeaturesBtn": false,
+        "limitedFeaturesText":"Continue with Limited Features"
+    },
+    "contestNotFoundAlert":{
+        "heading":"Notice",
+        "subheading":"This contest's questions are not available as of now. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+        "showMailBox": true,
+        "mailBox":{
+            "heading":"Report to us",
+            "subject":"Contest Questions not available",
+            "body":"",
+            "email":"leetcode.ally@gmail.com",
+            "inputBoxPlaceholder":"Write your message here..",
+            "buttonText":"Send"
+        },
+        "showLimitedFeaturesBtn": false,
         "limitedFeaturesText":"Continue with Limited Features"
     }
 }
