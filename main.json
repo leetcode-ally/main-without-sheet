@@ -61,7 +61,7 @@
     },
     "questionNotFoundAlert":{
         "heading":"Notice",
-        "subheading":"This question is not available as of now. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+        "subheading":"This question is not available as of now. Apologies for the inconvenience. Please keep in touch.",
         "showMailBox": true,
         "mailBox":{
             "heading":"Report to us",
@@ -76,7 +76,7 @@
     },
     "contestNotFoundAlert":{
         "heading":"Notice",
-        "subheading":"This contest's questions are not available as of now. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+        "subheading":"This contest's questions are not available as of now. Apologies for the inconvenience. Please keep in touch.",
         "showMailBox": true,
         "mailBox":{
             "heading":"Report to us",
