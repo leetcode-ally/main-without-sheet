@@ -1,7 +1,7 @@
 {
     "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
     "vercel_api":"https://leetcode-be.vercel.app",
-    "latest_version":24,
+    "latest_version":25,
     "flag":0,
     "feedback":{
         "msg":"",
