@@ -88,5 +88,20 @@
         },
         "showLimitedFeaturesBtn": false,
         "limitedFeaturesText":"Continue with Limited Features"
+    },
+    "carousel":{
+        "showCarousel":true,
+        "banners":[
+            {
+                "url":"https://marketplace.canva.com/EAFOX5T68S4/1/0/1600w/canva-black-white-modern-offline-twitch-banner-VxABfgKzI3k.jpg",
+                "id":1,
+                "link":"https://leetcode.com/problemset/?page=28"
+            },
+            {
+                "url":"https://marketplace.canva.com/EAFOX5T68S4/1/0/1600w/canva-black-white-modern-offline-twitch-banner-VxABfgKzI3k.jpg",
+                "id":1,
+                "link":""
+            }
+        ]
     }
 }
