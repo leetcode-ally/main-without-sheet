@@ -88,5 +88,9 @@
         },
         "showLimitedFeaturesBtn": false,
         "limitedFeaturesText":"Continue with Limited Features"
+    },
+    "carousel":{
+        "showCarousel":false,
+        "banners":[ ]
     }
 }
