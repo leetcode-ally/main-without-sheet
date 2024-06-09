@@ -94,14 +94,9 @@
         "showCarousel":true,
         "banners":[
             {
-                "url":"https://marketplace.canva.com/EAFOX5T68S4/1/0/1600w/canva-black-white-modern-offline-twitch-banner-VxABfgKzI3k.jpg",
+                "url":"https://leetcode-ally.github.io/main-without-sheet/cf-banner.png",
                 "id":1,
-                "link":"https://leetcode.com/problemset/?page=28"
-            },
-            {
-                "url":"https://marketplace.canva.com/EAFOX5T68S4/1/0/1600w/canva-black-white-modern-offline-twitch-banner-VxABfgKzI3k.jpg",
-                "id":1,
-                "link":""
+                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
             }
         ]
     }
