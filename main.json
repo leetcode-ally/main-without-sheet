@@ -2,7 +2,7 @@
     "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
     "vercel_api":"https://leetcode-be.vercel.app",
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
-    "latest_version":31,
+    "latest_version":32,
     "flag":0,
     "feedback":{
         "msg":"",
