@@ -94,14 +94,9 @@
         "showCarousel":true,
         "banners":[
             {
-                "url":"https://leetcode-ally.github.io/main-without-sheet/mongo-banner.png",
+                "url":"https://leetcode-ally.github.io/main-without-sheet/codefolio-banner.png",
                 "id":1,
-                "link":"https://play.google.com/store/apps/details?id=com.mongosimplifier"
-            },
-            {
-                "url":"https://leetcode-ally.github.io/main-without-sheet/codeforces-banner.png",
-                "id":2,
-                "link":"https://play.google.com/store/apps/details?id=com.ethosforces"
+                "link":"https://play.google.com/store/apps/details?id=com.codecoffee"
             }
         ]
     }
