@@ -2,7 +2,7 @@
     "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
     "vercel_api":"https://leetcode-be.vercel.app",
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
-    "latest_version":32,
+    "latest_version":38,
     "flag":0,
     "feedback":{
         "msg":"",
@@ -15,7 +15,7 @@
     "options":[],
     "app_url":"https://play.google.com/store/apps/details?id=com.leetos",
     "release_features":[],
-    "gmail":"leetosapp@gmail.com",
+    "gmail":"leetcode.ally@gmail.com",
     "notification":[{
         "time":"22:00:00",
         "title":"👨‍💻 Hey Leetcoder!",
