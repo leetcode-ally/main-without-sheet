@@ -101,7 +101,7 @@
             }
         ]
     },
-    "notification": [
+    "alert-notifications": [
         {
             "priority": 100,
             "display": "true",
