@@ -100,5 +100,29 @@
                 "link":"https://play.google.com/store/apps/details?id=com.codecoffee"
             }
         ]
-    }
+    },
+    "alert-notifications": [
+        {
+            "priority": 100,
+            "display": "true",
+            "expiary": {
+                "date": "2024/10/20",
+                "time": "05:30AM"
+            },
+            "message": "Solution video for Problem of the Day is available",
+            "button": {
+                "text": "Check it out",
+                "link": "https://www.youtube.com/watch?v=nYHnbGcmpgw"
+            }
+        },
+        {
+            "priority": 1,
+            "display": "true",
+            "message": "A new update for Leetcode Ally is available",
+            "button": {
+                "text": "Download Now",
+                "link": "https://play.google.com/store/apps/details?id=com.leetos&hl=en_IN"
+            }
+        }
+    ]
 }
