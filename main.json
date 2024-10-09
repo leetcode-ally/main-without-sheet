@@ -101,7 +101,7 @@
             }
         ]
     },
-    "alert-notifications": {
+    "alertNotifications": {
         "showAlert": true,
         "alerts": [
             {
