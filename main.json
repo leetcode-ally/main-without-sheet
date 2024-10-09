@@ -105,9 +105,11 @@
         {
             "priority": 100,
             "display": "true",
-            "expiary": {
-                "date": "2024/10/20",
-                "time": "05:30AM"
+            "canClose": "true",
+            "type": "ptod-video",
+            "styles": {
+                "primaryColor": "#ff0000",
+                "secondaryColor": "#ff000020"
             },
             "message": "Solution video for Problem of the Day is available",
             "button": {
@@ -118,6 +120,7 @@
         {
             "priority": 1,
             "display": "true",
+            "type": "custom",
             "message": "A new update for Leetcode Ally is available",
             "button": {
                 "text": "Download Now",
