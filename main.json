@@ -31,7 +31,7 @@
         "start": 2,
         "end": 2
     },
-    "adFrequency": 3,
+    "adFrequency": 5,
     "downTimeAlert":{
         "showDownTimeAlert":false,
         "heading":"Notice",
@@ -106,7 +106,7 @@
         "alerts": [
     {
       "button": {
-        "link": "sd,ndslknckn",
+        "link": "",
         "text": "Check it out  ➜"
       },
       "canClose": true,
