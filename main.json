@@ -104,31 +104,42 @@
     "alertNotifications": {
         "showAlert": true,
         "alerts": [
-            {
-                "priority": 100,
-                "display": true,
-                "canClose": true,
-                "type": "ptod-video",
-                "styles": {
-                    "primaryColor": "#ff0000",
-                    "secondaryColor": "#ff000020"
-                },
-                "message": "Solution video for Problem of the Day is available",
-                "button": {
-                    "text": "Check it out",
-                    "link": "https://www.youtube.com/watch?v=nYHnbGcmpgw"
-                }
-            },
-            {
-                "priority": 1,
-                "display": true,
-                "type": "custom",
-                "message": "A new update for Leetcode Ally is available",
-                "button": {
-                    "text": "Download Now",
-                    "link": "https://play.google.com/store/apps/details?id=com.leetos&hl=en_IN"
-                }
-            }
-        ]
+    {
+      "button": {
+        "link": "sd,ndslknckn",
+        "text": "Check it out  ➜"
+      },
+      "canClose": true,
+      "display": true,
+      "message": "Video solution for PTOD is available now",
+      "priority": 100,
+      "styles": {
+        "primaryColor": "#00ddd4",
+        "secondaryColor": "#00ddd420",
+        "ternaryColor": "#00ddd460"
+      },
+      "type": "potd-video"
+    },
+    {
+      "button": {
+        "link": "https://play.google.com/store/apps/details?id=com.leetos&hl=en_IN",
+        "text": "Download Now"
+      },
+      "display": true,
+      "message": "Alert 2",
+      "priority": 1,
+      "type": "custom"
+    },
+    {
+      "button": {
+        "link": "https://play.google.com/store/apps/details?id=com.leetos&hl=en_IN",
+        "text": "Download Now"
+      },
+      "display": true,
+      "message": "Alert 3",
+      "priority": 2,
+      "type": "custom"
+    }
+  ]
     }
 }
