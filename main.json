@@ -2,7 +2,7 @@
     "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
     "vercel_api":"https://leetcode-be.vercel.app",
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
-    "latest_version":38,
+    "latest_version":39,
     "flag":0,
     "feedback":{
         "msg":"",
@@ -102,7 +102,7 @@
         ]
     },
     "alertNotifications": {
-        "showAlert": false,
+        "showAlert": true,
         "alerts": [
     {
       "button": {
@@ -113,9 +113,9 @@
       "message": "Video solution for POTD is available now",
       "priority": 100,
       "styles": {
-        "primaryColor": "#00ddd4",
-        "secondaryColor": "#00ddd420",
-        "ternaryColor": "#00ddd460"
+        "primaryColor": "#FFA133",
+        "secondaryColor": "#FFA13320",
+        "ternaryColor": "#FFA13360"
       },
       "type": "potd-video"
     }
