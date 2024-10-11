@@ -92,7 +92,7 @@
         "limitedFeaturesText":"Continue with Limited Features"
     },
     "carousel":{
-        "showCarousel":false,
+        "showCarousel":true,
         "banners":[
             {
                 "url":"https://leetcode-ally.github.io/main-without-sheet/codefolio-banner.webp",
