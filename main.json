@@ -102,7 +102,7 @@
         ]
     },
     "alertNotifications": {
-        "showAlert": true,
+        "showAlert": false,
         "alerts": [
     {
       "button": {
