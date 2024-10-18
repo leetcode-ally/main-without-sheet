@@ -95,9 +95,9 @@
         "showCarousel":true,
         "banners":[
             {
-                "url":"https://leetcode-ally.github.io/main-without-sheet/codefolio-banner.webp",
+                "url":"https://leetcode-ally.github.io/main-without-sheet/cpp-banner.webp",
                 "id":1,
-                "link":"https://play.google.com/store/apps/details?id=com.codecoffee"
+                "link":"https://play.google.com/store/apps/details?id=com.cppally"
             }
         ]
     },
