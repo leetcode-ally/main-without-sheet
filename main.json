@@ -1,6 +1,6 @@
 {
     "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
-    "vercel_api":"https://leetcode-be.vercel.app",
+    "vercel_api":"https://c-leetcode-ally-be.vercel.app",
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
     "latest_version":40,
     "mandatory": true,
