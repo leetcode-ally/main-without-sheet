@@ -94,14 +94,8 @@
         "limitedFeaturesText":"Continue with Limited Features"
     },
     "carousel":{
-        "showCarousel":true,
-        "banners":[
-            {
-                "url":"https://leetcode-ally.github.io/main-without-sheet/cpp-banner.webp",
-                "id":1,
-                "link":"https://play.google.com/store/apps/details?id=com.cppally"
-            }
-        ]
+        "showCarousel":false,
+        "banners":[ ]
     },
     "alertNotifications": {
         "showAlert": false,
