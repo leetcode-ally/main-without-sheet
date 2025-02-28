@@ -4,7 +4,7 @@
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
     "latest_version":44,
     "mandatory": true,
-    "showContest": true,
+    "showContest": false,
     "new_projects_url":"https://leetcode-ally.github.io/projects/newprojects.json",
     "flag":0,
     "feedback":{
