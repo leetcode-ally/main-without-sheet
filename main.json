@@ -99,6 +99,17 @@
         "showCarousel":false,
         "banners":[ ]
     },
+    "aiCarousel":{
+        "showAiCarousel":true,
+        "AiBanners":[
+            {
+            "link": "https://picsum.photos/200/400",
+            "url": "https://picsum.photos/200/400",
+            "id": 1,
+            "flag": 1,
+          }
+        ]
+    },
     "alertNotifications": {
         "showAlert": false,
         "alerts": [
