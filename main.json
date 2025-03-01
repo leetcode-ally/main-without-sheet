@@ -100,7 +100,7 @@
         "banners":[ ]
     },
     "aiCarousel":{
-        "showAiCarousel":true,
+        "showAiCarousel":false,
         "AiBanners":[
             {
             "link": "https://picsum.photos/200/400",
