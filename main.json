@@ -100,11 +100,11 @@
         "banners":[ ]
     },
     "aiCarousel":{
-        "showAiCarousel":false,
+        "showAiCarousel":true,
         "AiBanners":[
             {
             "link": "https://picsum.photos/200/400",
-            "url": "https://leetcode-ally.github.io/main-without-sheet/ai-image.png",
+            "url": "https://leetcode-ally.github.io/main-without-sheet/ai-image.webp",
             "id": 1,
             "flag": 1
           }
