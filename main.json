@@ -35,7 +35,7 @@
         "end": 2
     },
     "adFrequency": 5,
-    "aiAdFrequency":4,
+    "aiAdFrequency":5,
     "downTimeAlert":{
         "showDownTimeAlert":false,
         "heading":"Notice",
