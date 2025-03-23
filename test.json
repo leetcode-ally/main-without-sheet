@@ -37,7 +37,7 @@
     "adFrequency": 4,
     "aiAdFrequency":4,
     "downTimeAlert":{
-        "showDownTimeAlert":false,
+        "showDownTimeAlert":true,
         "heading":"Notice",
         "subheading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
         "showMailBox": true,
