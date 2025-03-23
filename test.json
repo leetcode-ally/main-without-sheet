@@ -1,8 +1,11 @@
 {
     "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
-    "vercel_api":"https://leetcode-be.vercel.app",
+    "vercel_api":"https://c-leetcode-ally-be.vercel.app",
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
-    "latest_version":40,
+    "latest_version":44,
+    "mandatory": true,
+    "showContest": false,
+    "new_projects_url":"https://leetcode-ally.github.io/projects/newprojects.json",
     "flag":0,
     "feedback":{
         "msg":"",
@@ -32,6 +35,7 @@
         "end": 2
     },
     "adFrequency": 4,
+    "aiAdFrequency":4,
     "downTimeAlert":{
         "showDownTimeAlert":false,
         "heading":"Notice",
@@ -93,12 +97,17 @@
     },
     "carousel":{
         "showCarousel":false,
-        "banners":[
+        "banners":[ ]
+    },
+    "aiCarousel":{
+        "showAiCarousel":true,
+        "AiBanners":[
             {
-                "url":"https://leetcode-ally.github.io/main-without-sheet/cpp-banner.webp",
-                "id":1,
-                "link":"https://play.google.com/store/apps/details?id=com.cppally"
-            }
+            "link": "https://picsum.photos/200/400",
+            "url": "https://leetcode-ally.github.io/main-without-sheet/ai.webp",
+            "id": 1,
+            "flag": 1
+          }
         ]
     },
     "alertNotifications": {
@@ -120,5 +129,19 @@
       "type": "potd-video"
     }
   ]
-    }
+    },
+    "rateAlert": {
+    "heading": "Rate Us",
+    "subheading": "Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
+    "showMailBox": false,
+    "mailBox": {}
+  },
+    "updateAlert": {
+    "heading": "Update",
+    "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+    "showMailBox": false,
+    "mailBox": {},
+    "showList": false,
+    "list": []
+  }
 }
