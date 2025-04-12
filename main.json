@@ -5,6 +5,7 @@
     "latest_version":44,
     "mandatory": true,
     "showContest": false,
+    "showNewLogin": false,
     "new_projects_url":"https://leetcode-ally.github.io/projects/newprojects.json",
     "flag":0,
     "feedback":{
