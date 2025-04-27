@@ -38,6 +38,7 @@
     },
     "adFrequency": 4,
     "aiAdFrequency":4,
+    "noOfMinsForAdFree": 5,
     "downTimeAlert":{
         "showDownTimeAlert":false,
         "heading":"Notice",
