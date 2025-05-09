@@ -3,7 +3,7 @@
     "vercel_api":"https://c-leetcode-ally-be.vercel.app",
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
     "lc_data": "https://codecoffee-app.github.io/lc-data/",
-    "latest_version":48,
+    "latest_version":49,
     "mandatory": true,
     "showContest": false,
     "showNewLogin": false,
