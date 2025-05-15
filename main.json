@@ -36,8 +36,8 @@
         "start": 2,
         "end": 2
     },
-    "adFrequency": 10,
-    "aiAdFrequency":10,
+    "adFrequency": 8,
+    "aiAdFrequency":8,
     "noOfMinsForAdFree": 5,
     "downTimeAlert":{
         "showDownTimeAlert":false,
